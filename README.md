@@ -36,7 +36,8 @@
 ---
 
 ## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=mahanmalayeri&show_icons=true&theme=github_dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mahanmalayeri&show_icons=true&theme=default&hide_border=true)
+
 
 ---
 
@@ -46,7 +47,7 @@
 ---
 
 ## 🏆 GitHub Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=mahanmalayeri&theme=algolia&no-frame=true&row=1)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=mahanmalayeri&theme=flat&no-frame=true&row=1)
 
 ---
 
