@@ -36,17 +36,17 @@
 ---
 
 ## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=K9mahan&show_icons=true&theme=github_dark)
+![Stats](https://github-readme-stats.vercel.app/api?username=mahanmalayeri&show_icons=true&theme=github_dark)
 
 ---
 
 ## 🔥 GitHub Streak
-![Streak](https://streak-stats.demolab.com?user=K9mahan&theme=github-dark-blue)
+![Streak](https://streak-stats.demolab.com?user=mahanmalayeri&theme=github-dark-blue)
 
 ---
 
 ## 🏆 GitHub Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=K9mahan&theme=algolia&no-frame=true&row=1)
+![Trophies](https://github-profile-trophy.vercel.app/?username=mahanmalayeri&theme=algolia&no-frame=true&row=1)
 
 ---
 
