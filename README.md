@@ -35,19 +35,8 @@
 
 ---
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mahanmalayeri&show_icons=true&theme=default&hide_border=true)
-
-
----
-
 ## 🔥 GitHub Streak
 ![Streak](https://streak-stats.demolab.com?user=mahanmalayeri&theme=github-dark-blue)
-
----
-
-## 🏆 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=mahanmalayeri&theme=flat&no-frame=true&row=1)
 
 ---
 
